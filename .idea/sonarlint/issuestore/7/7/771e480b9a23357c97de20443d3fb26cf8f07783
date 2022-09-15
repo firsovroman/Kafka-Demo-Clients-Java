@@ -1,0 +1,10 @@
+
+f
+java:S2095"KUse try-with-resources or close this "KafkaProducer" in a "finally" clause.(¨€Á§ÿÿÿÿÿ
+œ
+java:S1130"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(àÜÕúÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëôßÊ
+O
+java:S6213":Rename this variable to not match a restricted identifier.(ß€‚
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(²£ªùÿÿÿÿ
