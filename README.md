@@ -1,5 +1,10 @@
 # kafka-demo
 
+Архитектурная схема проекта.
+![alt text](https://github.com/firsovroman/Kafka-Demo-Clients-Java/blob/main/.doc/kafka.png)
+
+
+# Инструкция по запуску
 https://habr.com/ru/post/543732/ 
 
     Создаем отдельную подсеть для работы Kafka:
