@@ -42,6 +42,7 @@ https://habr.com/ru/post/543732/
 
     /bin/kafka-console-producer --topic demo-topic --bootstrap-server kafka:9092
     
+Команда добавляет консольного консьюмера (Kafka CLI consumer) ничего делать ненуждо просто ждем и все сообщения приходят. (для выхода Ctrl + C)
 
     /bin/kafka-console-consumer --topic demo-topic --from-beginning --bootstrap-server kafka:9092
 
