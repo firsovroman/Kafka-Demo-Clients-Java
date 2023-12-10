@@ -38,6 +38,8 @@ https://habr.com/ru/post/543732/
 
     /bin/kafka-topics --describe --topic demo-topic --bootstrap-server kafka:9092
 
+    
+Kafka запущена можно проверить её работу консольными клиентами.
 Команда добавляет консольного продюсера (Kafka CLI producer), после чего через Enter добавляются сообщения (для выхода Ctrl + C)
 
     /bin/kafka-console-producer --topic demo-topic --bootstrap-server kafka:9092
@@ -48,6 +50,7 @@ https://habr.com/ru/post/543732/
 
 
 
+Базовую работоспособность проверили, идем далбше.
 Играем с количеством partitions и с количеством consumers в consumer group:
 
 Создать 3 партиции в топике(demo-topic):
