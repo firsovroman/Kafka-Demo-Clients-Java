@@ -41,6 +41,7 @@ https://habr.com/ru/post/543732/
 Команда добавляет консольного продюсера (Kafka CLI producer), после чего через Enter добавляются сообщения (для выхода Ctrl + C)
 
     /bin/kafka-console-producer --topic demo-topic --bootstrap-server kafka:9092
+    
 
     /bin/kafka-console-consumer --topic demo-topic --from-beginning --bootstrap-server kafka:9092
 
