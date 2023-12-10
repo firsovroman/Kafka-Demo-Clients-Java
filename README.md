@@ -4,9 +4,6 @@
 ![alt text](https://github.com/firsovroman/Kafka-Demo-Clients-Java/blob/main/.doc/kafka.png)
 
 
-# Инструкция по запуску контейнера с kafka
-https://habr.com/ru/post/543732/ 
-
 Создаем отдельную подсеть для работы Kafka:
 
     docker network create kafkanet
